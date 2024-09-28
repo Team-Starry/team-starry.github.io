@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![](http://teamstarry.snowlyicewolf.club//assets/TeamStarry.png)
+
 # Team Starry
 
 ***“月光伴星耀大地。”***
