@@ -6,7 +6,7 @@ permalink: /about/
 
 <div align=center>
 
-![](/assets/TeamStarry.png)
+![](https://teamstarry.snowlyicewolf.club/assets/TeamStarry.png)
 
 # Team Starry
 
